@@ -4,3 +4,4 @@
 
 - feature-A
 - faeture-C
+- fix-#2
